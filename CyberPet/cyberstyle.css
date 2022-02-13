@@ -1,0 +1,73 @@
+
+head {
+    font-size: 18px;
+    border: 5px solid black;
+}
+
+body {
+    background-color: rgb(22, 145, 57)
+}
+
+.outline {
+    width: 400px;
+    display: flex;
+    border: 5px solid black;
+    flex-direction: row;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    max-width: 50px;
+}
+
+.eat {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    max-width: 50px;
+}
+
+.drink {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    max-width: 50px;
+}
+
+.play {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    max-width: 50px;
+}
+
+.sleep {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    max-width: 50px;
+}
+
+.atr {
+    border: black 2px solid;
+    width: 100px;
+    
+}
+
+#fud {
+    max-width: 30px;
+}
+
+#wat {
+    max-width: 30px;
+}
+
+#pla {
+    max-width: 30px;
+}
+
+#res {
+    max-width: 30px;
+}
